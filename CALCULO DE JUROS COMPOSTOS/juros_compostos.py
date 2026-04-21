@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 
 # Solicitar os valores ao usuário
 capital_inicial = float(input("Digite o capital inicial: "))
